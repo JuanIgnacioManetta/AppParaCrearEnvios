@@ -1,0 +1,9 @@
+﻿avion,cliente,cod_paquete,monto,origen,destino,contenido
+Airbus319,30639165880,PAQ234,56784,EZE,MIA,insumos médicos
+Airbus319,30439225888,PAQ235,35452,EZE,PER,doc legal
+Airbus320,20438765432,PAQ236,45236,MDQ,MIA,ropa y electrónicos
+Boeing747,10548291234,PAQ218,65890,LAX,LHR,artículos de lujo
+Embraer190,30987654321,PAQ245,32001,SFO,CDG,libros y accesorios
+Airbus321,40876543210,PAQ212,27890,JFK,HND,dispositivos electrónicos
+Boeing777,50765432109,PAQ289,51032,ATL,PEK,juguetes y productos infantiles
+Boeing777,520455688346,PAQ290,50210,EZE,ATL,juegos de Playstation 1 Playstation 2 Playstation 3 y Playstation 4
