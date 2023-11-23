@@ -55,9 +55,9 @@ namespace WindowsFormsApp2
         {
             StreamReader Lector;
             FileStream Archivo;
-            if (File.Exists("C:\\Users\\juanc\\source\\repos\\PracticaEnCasa\\WindowsForms\\WindowsFormsApp2\\clientes.csv") != false)
+            if (File.Exists("C:\\Users\\juanc\\source\\repos\\PracticaEnCasa\\WindowsForms\\AppParaCrearEnvios\\clientes.csv") != false)
             {
-                Archivo = new FileStream("C:\\Users\\juanc\\source\\repos\\PracticaEnCasa\\WindowsForms\\WindowsFormsApp2\\clientes.csv", FileMode.Open);
+                Archivo = new FileStream("C:\\Users\\juanc\\source\\repos\\PracticaEnCasa\\WindowsForms\\AppParaCrearEnvios\\clientes.csv", FileMode.Open);
                 Lector = new StreamReader(Archivo);
                 string Header = Lector.ReadLine();
                 string[] HeaderSplit = Header.Split(',');
@@ -127,7 +127,7 @@ namespace WindowsFormsApp2
             {
                 StreamWriter Escritor;
                 FileStream Archivo;
-                Archivo = new FileStream("C:\\Users\\juanc\\source\\repos\\PracticaEnCasa\\WindowsForms\\WindowsFormsApp2\\clientes.csv", FileMode.Append);
+                Archivo = new FileStream("C:\\Users\\juanc\\source\\repos\\PracticaEnCasa\\WindowsForms\\AppParaCrearEnvios\\clientes.csv", FileMode.Append);
                 Escritor = new StreamWriter(Archivo);
                 Escritor.WriteLine($"{Cliente.CUIT},{Cliente.RazonSocial},{Cliente.Ciudad}");
                 Escritor.Close();

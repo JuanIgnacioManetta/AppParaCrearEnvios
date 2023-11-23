@@ -12,3 +12,17 @@ C:\Users\juanc\source\repos\PracticaEnCasa\WindowsForms\WindowsFormsApp2\obj\Deb
 C:\Users\juanc\source\repos\PracticaEnCasa\WindowsForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
 C:\Users\juanc\source\repos\PracticaEnCasa\WindowsForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
 C:\Users\juanc\source\repos\PracticaEnCasa\WindowsForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+C:\Users\juanc\source\repos\PracticaEnCasa\WindowsForms\AppParaCrearEnvios\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\juanc\source\repos\PracticaEnCasa\WindowsForms\AppParaCrearEnvios\bin\Debug\WindowsFormsApp2.exe
+C:\Users\juanc\source\repos\PracticaEnCasa\WindowsForms\AppParaCrearEnvios\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\juanc\source\repos\PracticaEnCasa\WindowsForms\AppParaCrearEnvios\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\juanc\source\repos\PracticaEnCasa\WindowsForms\AppParaCrearEnvios\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\juanc\source\repos\PracticaEnCasa\WindowsForms\AppParaCrearEnvios\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\juanc\source\repos\PracticaEnCasa\WindowsForms\AppParaCrearEnvios\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\juanc\source\repos\PracticaEnCasa\WindowsForms\AppParaCrearEnvios\obj\Debug\WindowsFormsApp2.Form4.resources
+C:\Users\juanc\source\repos\PracticaEnCasa\WindowsForms\AppParaCrearEnvios\obj\Debug\WindowsFormsApp2.Form5.resources
+C:\Users\juanc\source\repos\PracticaEnCasa\WindowsForms\AppParaCrearEnvios\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\juanc\source\repos\PracticaEnCasa\WindowsForms\AppParaCrearEnvios\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\juanc\source\repos\PracticaEnCasa\WindowsForms\AppParaCrearEnvios\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\juanc\source\repos\PracticaEnCasa\WindowsForms\AppParaCrearEnvios\obj\Debug\WindowsFormsApp2.exe
+C:\Users\juanc\source\repos\PracticaEnCasa\WindowsForms\AppParaCrearEnvios\obj\Debug\WindowsFormsApp2.pdb

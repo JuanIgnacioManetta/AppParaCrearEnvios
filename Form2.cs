@@ -24,9 +24,9 @@ namespace WindowsFormsApp2
             FileStream Archivo;
             Envios envios = new Envios();
 
-            if(File.Exists("C:\\Users\\juanc\\source\\repos\\PracticaEnCasa\\WindowsForms\\WindowsFormsApp2\\Envios.csv") != false)
+            if(File.Exists("C:\\Users\\juanc\\source\\repos\\PracticaEnCasa\\WindowsForms\\AppParaCrearEnvios\\Envios.csv") != false)
             {
-                Archivo = new FileStream("C:\\Users\\juanc\\source\\repos\\PracticaEnCasa\\WindowsForms\\WindowsFormsApp2\\Envios.csv", FileMode.Open);
+                Archivo = new FileStream("C:\\Users\\juanc\\source\\repos\\PracticaEnCasa\\WindowsForms\\AppParaCrearEnvios\\Envios.csv", FileMode.Open);
                 Lector = new StreamReader(Archivo);
                 string Header = Lector.ReadLine();
                 string[] HeaderSplit = Header.Split(',');
